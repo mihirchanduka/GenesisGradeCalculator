@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GUIProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GUIProject_jar</output-path>
+    <root id="archive" name="GUIProject.jar">
+      <element id="module-output" name="Genesis-Grade-Calculator" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/jsoup-1.15.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/selenium-server-4.1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
